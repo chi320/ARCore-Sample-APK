@@ -1,5 +1,5 @@
 # ARCore-Sample-APK
-Build APK from ARCore Sample.
+Build APK from ARCore Sample ([Sceneform SDK for Android](https://github.com/google-ar/sceneform-android-sdk)) .
 
 ## How to work
 1. Have a Android devices that support ARCore.  
